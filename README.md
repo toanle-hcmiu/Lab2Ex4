@@ -1,5 +1,3 @@
-# Lab 2 Exercise 4 - San Joaquin Valley Town Hall
-
 ## Project Report
 
 ### Overview
